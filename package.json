@@ -1,6 +1,6 @@
 {
-  "name": "@bigcommerce/catalyst",
-  "description": "Catalyst is BigCommerce's composable front-end framework designed for building custom ecommerce storefronts.",
+  "name": "acme-store",
+  "description": "Storefront for ACME Inc.",
   "keywords": [
     "bigcommerce",
     "ecommerce",
